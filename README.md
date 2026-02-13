@@ -1,6 +1,6 @@
 # Lab: doctests + continuous integration
 
-<img src="https://github.com/abedoya-norena/lab-doctests/workflows/tests/badge.svg" />
+<img src="https://github.com/abedoya-norena/lab-doctests/actions/workflows/tests.yml/badge.svg" />
 
 **Instructions:**
 
